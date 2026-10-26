@@ -1,0 +1,6 @@
+{
+  "name": "Daaton Ki Dukan - Modern Dental Clinic",
+  "description": "Premium, modern, and gentle dental care clinic in India offering personalized oral treatments, comfortable experiences, and easy appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
